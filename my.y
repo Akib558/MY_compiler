@@ -870,7 +870,5 @@ int main(void)
 
     fclose(stdout);
     fclose(stdin);
-    printf("HELLLLLLLLLLLLLLLLLLLLLLLLL s_val is : %d\n",s_val);
-
     return 0;
 }
